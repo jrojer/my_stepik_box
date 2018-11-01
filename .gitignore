@@ -1,2 +1,2 @@
-public/*
-uploads/*
+__pycache__/
+*.pyc
